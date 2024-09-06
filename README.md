@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Starbem
 
-- 🌱 I’m currently learning **JavaScript, ReactJS**
 
 
 
